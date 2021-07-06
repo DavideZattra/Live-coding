@@ -1,0 +1,27 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: grey;
+
+}
+
+header li,
+nav{
+    display: inline-block;
+}
+
+#mainlogo{
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 50px
+}
